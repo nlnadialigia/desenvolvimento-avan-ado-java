@@ -18,8 +18,6 @@
 
 # Índice
 
-(#📌-)
-
 - [Entenda o que é Paradigma Funcional no Java](#📌-entenda-o-que-é-paradigma-funcional-no-java)
 - [Funções e imutabilidade em Paradigma Funcional](#📌-funções-e-imutabilidade-em-paradigma-funcional)
 - [Lambda no Java](#📌-lambda-no-java)
@@ -112,7 +110,7 @@ public static void main(String[] args) {
 
 ### 📎 Imperativo x Declarativo
 
-> - É muito comum aprender a programar de forma imperativa, onde mandamos alguém fazer algo, Busque o usuário 15 no banco de dados. Valide essas informações do usuário.
+> É muito comum aprender a programar de forma imperativa, onde mandamos alguém fazer algo, Busque o usuário 15 no banco de dados. Valide essas informações do usuário.
 
 > Na programação funcional tentamos programar de forma declarativa, onde declaramos o que desejamos, sem explicitar como será feito. Qual o usuário 15? Quais os erros dessas informações?
 
