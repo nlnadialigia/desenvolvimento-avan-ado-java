@@ -71,11 +71,21 @@ class Casa {
 
   List<Atividade> obterAfazeresDaCasa() {
     return this.comodos.stream().map(Comodo::obterAfazeresDoComodo)
-        .reduce(new ArrayList<Atividade>(), (pivo, atividades) -> {
+        .reduce(new ArrayList<>(), (pivo, atividades) -> {
           pivo.addAll(atividades);
           return pivo;
         });
   }
+
+  /*
+  List<Atividade> obterAfazeresDaCasa() {
+    return this.comodos.stream().map(Comodo::obterAfazeresDoComodo)
+      .reduce(new ArrayList<Atividade>(), (pivo, atividades) -> {
+        pivo.addAll(atividades);
+        return pivo;
+      });
+  }
+  */
 }
 
 interface Atividade {
