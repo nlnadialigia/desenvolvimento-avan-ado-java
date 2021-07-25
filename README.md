@@ -16,6 +16,7 @@
 
 - [Paradigma Funcional](./paradigma-funcional)
 - [Interfaces Funcionais](./interfaces-funcionais)
+- [Processamento Assíncrono e Paralelo](./async)
 
 <br>
 
