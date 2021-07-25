@@ -1,4 +1,4 @@
-package exemplos;
+package paradigmas;
 
 public class Imperativo {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package exemplos;
+package paradigmas;
 
 import java.util.Arrays;
 
