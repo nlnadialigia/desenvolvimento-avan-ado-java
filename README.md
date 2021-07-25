@@ -15,6 +15,7 @@
 # Índice
 
 - [Paradigma Funcional](./paradigma-funcional)
+- [Interfaces Funcionais](./interfaces-funcionais)
 
 <br>
 

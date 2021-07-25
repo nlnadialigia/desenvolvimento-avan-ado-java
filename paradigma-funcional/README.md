@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../.github/paradigma.png" width=300 alt="S.O.L.I.D" /> 
+  <img src="../.github/paradigma.png" width=400 alt="Paradigma Funcional" /> 
 </p>
 
 <p align="center">
