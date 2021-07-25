@@ -17,6 +17,7 @@
 - [Paradigma Funcional](./paradigma-funcional)
 - [Interfaces Funcionais](./interfaces-funcionais)
 - [Processamento Assíncrono e Paralelo](./async)
+- [Modularização do Java](./java-modular)
 
 <br>
 
