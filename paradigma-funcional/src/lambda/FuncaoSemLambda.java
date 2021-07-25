@@ -12,5 +12,7 @@ public class FuncaoSemLambda {
       }
     };
     System.out.println(colocarPrefixoSenhorNaString.gerar("João"));
+
+
   }
 }

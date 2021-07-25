@@ -12,6 +12,10 @@ public class FuncaoComLambda {
     };
 
     System.out.println(colocarPrefixoSenhorNaString.gerar("Rodrigo"));
+
+    FuncaoA nome = System.out::println;
+    nome.gerar("Nadia Ligia");
+
   }
 }
 
