@@ -18,6 +18,7 @@
 - [Interfaces Funcionais](./interfaces-funcionais)
 - [Processamento Assíncrono e Paralelo](./async)
 - [Modularização do Java](./java-modular)
+- [Novidades do Java10](./java10)
 
 <br>
 
