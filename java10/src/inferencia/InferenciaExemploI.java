@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 
 /* Busca e retorna o HTLM da URL discriminada */
 
-public class InferenciaExemplo {
+public class InferenciaExemploI {
   public static void main(String[] args) throws IOException {
     URL url = new URL("https://www.deepl.com/pt-BR/translator/");
     URLConnection urlConnection = url.openConnection();
