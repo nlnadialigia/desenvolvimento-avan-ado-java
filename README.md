@@ -19,6 +19,7 @@
 - [Processamento Assíncrono e Paralelo](./async)
 - [Modularização do Java](./java-modular)
 - [Novidades do Java10](./java10)
+- [Novidades do Java11](./java11)
 
 <br>
 
